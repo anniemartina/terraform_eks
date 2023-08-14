@@ -70,3 +70,13 @@ You can modify the infracture by providing new values for the configuration para
 ```
 terraform apply 
 ```
+Sample Output
+```
+Apply complete! Resources: 62 added, 0 changed, 0 destroyed.
+```
+
+6. After completing the testing destroy the infracture.
+```
+terraform destroy
+```
+
