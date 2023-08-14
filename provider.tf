@@ -5,17 +5,9 @@ terraform {
       source = "hashicorp/aws"
       version = "5.12.0"
     }
-    kubectl = {
-      source = "gavinbunney/kubectl"
-      version = ">= 1.14.0"
-    }
-    helm = {
-      source = "hashicorp/helm"
-      version = ">= 2.10.1"
-    }
   }
 }
 
 provider "aws" {
-  region = "eu-north-1"
+  region = var.region
 }
