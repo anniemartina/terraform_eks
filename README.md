@@ -1,4 +1,4 @@
-# Deploy Infracture using Terraform
+# Deploy Infrastructure using Terraform
 Guide for deploying Amazon EKS cluster using Hashicorp Terraform. The terraform will deploy the following resources:
 
 - VPC
