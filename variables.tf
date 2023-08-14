@@ -1,8 +1,3 @@
-variable "aws_version" {
-  type    = string
-  default = "5.12.0"
-}
-
 variable "region" {
   type    = string
   default = "eu-north-1"
