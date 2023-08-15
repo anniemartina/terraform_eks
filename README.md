@@ -4,6 +4,8 @@ Guide for deploying Amazon EKS cluster using Hashicorp Terraform. The terraform 
 - VPC
 - EKS Cluster
 - Node Group
+## Architecture
+![image](https://github.com/anniemartina/terraform_eks/assets/137068841/a4c2adb8-5884-4430-87ce-9f13201c0732)
 
 ## Prerequisites
 
