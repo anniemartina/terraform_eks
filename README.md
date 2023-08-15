@@ -5,7 +5,7 @@ Guide for deploying Amazon EKS cluster using Hashicorp Terraform. The terraform 
 - EKS Cluster
 - Node Group
 ## Architecture
-![image](https://github.com/anniemartina/terraform_eks/assets/137068841/a4c2adb8-5884-4430-87ce-9f13201c0732)
+![image](https://github.com/anniemartina/terraform_eks/assets/137068841/c74250a8-da14-498c-84c3-a62212de7b3d)
 
 ## Prerequisites
 
